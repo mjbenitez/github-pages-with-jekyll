@@ -1,3 +1,3 @@
-# Welcome to my blog
+# FrontEnd Foxes 🦊
 
-I'm glad you are here. I plan to talk about ...
+Hi! I'm Macarena, in this blog I will post my progress in the FrontEnd Foxes Bootcamp
